@@ -44,7 +44,7 @@ export default function BalanceChecker() {
     <div className="min-h-screen bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] flex items-center justify-center p-6">
       <div className="w-full max-w-md bg-white/10 backdrop-blur-xl shadow-2xl rounded-3xl p-8 border border-white/10">
         <h1 className="text-3xl font-extrabold text-center text-white tracking-widest mb-8 uppercase drop-shadow-md">
-          🚀 Zeru Project
+          🚀 Mini Project
         </h1>
 
         <label className="block text-white text-sm mb-2 tracking-wide">
